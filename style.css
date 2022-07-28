@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to  left, #656462, #068d88);
+    padding: 90px 0;
+}
+
+
+.btn {
+    width: 100px;
+    height: 35px;
+    border: 2px solid;
+    background-color:gray;
+    color:aquamarine;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.tabela {
+    position: absolute;
+    left: 445px;
+}
+
+.btn:hover {
+    background-color: black;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.logo {
+    padding: 0 0 0 350px;
+}
